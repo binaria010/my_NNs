@@ -1,3 +1,8 @@
+"""
+@author: Juliana
+"""
+
+
 import numpy as np
 from my_nn import *
 
